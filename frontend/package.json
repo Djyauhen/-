@@ -1,5 +1,5 @@
 {
-  "name": "quiz_3",
+  "name": "quiz_ts",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Djyauhen/KR_16.git"
+    "url": "git+https://github.com/Djyauhen/Quiz_TS.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Djyauhen/KR_16/issues"
+    "url": "https://github.com/Djyauhen/Quiz_TS/issues"
   },
-  "homepage": "https://github.com/Djyauhen/KR_16#readme",
+  "homepage": "https://github.com/Djyauhen/Quiz_TS#readme",
   "devDependencies": {
     "@babel/core": "^7.21.3",
     "@babel/preset-env": "^7.20.2",
@@ -25,6 +25,8 @@
     "copy-webpack-plugin": "^11.0.0",
     "html-webpack-plugin": "^5.5.0",
     "http-server": "^14.1.1",
+    "ts-loader": "^9.4.3",
+    "typescript": "^5.0.4",
     "webpack": "^5.76.2",
     "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^4.12.0"
